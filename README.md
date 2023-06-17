@@ -34,7 +34,7 @@ Attendify integrates with Firebase to store and retrieve student data, as well a
 
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture9.jpg)
 
-![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture10.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture10.jpg)
 
 # Mobile Application Development
 In addition to the Attendify project, a mobile application has been developed to provide students with easy access to their attendance information. The mobile app incorporates various features to enhance user experience and ensure the security and accuracy of attendance tracking. The following features have been implemented:
