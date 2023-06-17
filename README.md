@@ -12,7 +12,8 @@ The facial recognition process in Attendify involves the following steps:
 •	Face Detection: The system captures video frames from the webcam and converts them to grayscale. It uses OpenCV's face detection cascade classifier to detect faces in the grayscale frames.
 •	Face Recognition: For each detected face, the system extracts the face region and encodes it using the face_recognition library. It compares the face encodings with the known encodings from the "EncodeFile.p" file. If a match is found, the system retrieves the corresponding student ID and proceeds to update the attendance.
 •	Attendance Update: The system retrieves the student's information from the Firebase Realtime Database based on the student ID. It retrieves the student's image from the Firebase storage bucket. It then updates the attendance status by checking the last attendance time and increments the total attendance count if necessary. The updated attendance data is stored in the Firebase Realtime Database.
-  
+
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture1.png)
  
 
 
