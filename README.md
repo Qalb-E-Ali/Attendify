@@ -22,17 +22,12 @@ The facial recognition process in Attendify involves the following steps:
 
 # Integration with Firebase
 Attendify integrates with Firebase to store and retrieve student data, as well as student images. It utilizes the Firebase Admin SDK and the provided service account credentials to establish a connection with Firebase. The system accesses the Realtime Database to retrieve student information and update the attendance data. It also utilizes the Firebase storage bucket to upload and retrieve student images.
- 
- 
 
- 
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture7.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture8.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture9.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture10.png)
 
-
-
-
-
-
- 
 # Mobile Application Development
 In addition to the Attendify project, a mobile application has been developed to provide students with easy access to their attendance information. The mobile app incorporates various features to enhance user experience and ensure the security and accuracy of attendance tracking. The following features have been implemented:
 # 1. Login System
@@ -47,6 +42,10 @@ The app includes a notification system to alert students when their attendance f
 Along with the attendance percentage, the mobile app also displays the number of absences for each student. This information provides students with a comprehensive overview of their attendance record and helps them keep track of their missed classes.
 # 6. Debar Alert
 To highlight the importance of maintaining satisfactory attendance, the mobile app includes a debar alert feature. If a student's attendance falls below the 80% threshold, the app displays a warning message indicating that the student is at risk of being debarred. This alert serves as a reminder for students to take immediate action and improve their attendance.
+
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture11.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture13.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture14.png)
 
 # Absent Marking Logic
 The Attendify project utilizes a logic for marking the attendance status of students as "absent" by default. The status is changed to "present" only when a student is recognized by the camera during the face recognition process. Students who are not detected by the camera are automatically marked as absent.
