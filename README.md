@@ -25,7 +25,7 @@ Attendify integrates with Firebase to store and retrieve student data, as well a
 
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture7.png)
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture8.png)
-![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture9.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture9.jpg)
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture10.png)
 
 # Mobile Application Development
