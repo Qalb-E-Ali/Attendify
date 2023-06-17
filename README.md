@@ -14,14 +14,12 @@ The facial recognition process in Attendify involves the following steps:
 •	Attendance Update: The system retrieves the student's information from the Firebase Realtime Database based on the student ID. It retrieves the student's image from the Firebase storage bucket. It then updates the attendance status by checking the last attendance time and increments the total attendance count if necessary. The updated attendance data is stored in the Firebase Realtime Database.
 
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture1.png)
- 
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture2.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture3.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture4.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture5.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture6.png)
 
-
-
-
-
- 
- 
 # Integration with Firebase
 Attendify integrates with Firebase to store and retrieve student data, as well as student images. It utilizes the Firebase Admin SDK and the provided service account credentials to establish a connection with Firebase. The system accesses the Realtime Database to retrieve student information and update the attendance data. It also utilizes the Firebase storage bucket to upload and retrieve student images.
  
