@@ -43,7 +43,7 @@ Along with the attendance percentage, the mobile app also displays the number of
 # 6. Debar Alert
 To highlight the importance of maintaining satisfactory attendance, the mobile app includes a debar alert feature. If a student's attendance falls below the 80% threshold, the app displays a warning message indicating that the student is at risk of being debarred. This alert serves as a reminder for students to take immediate action and improve their attendance.
 
-![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture11.png)
+![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture11.jpg)
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture13.png)
 ![image](https://github.com/Qalb-E-Ali/Attendify/blob/main/Picture14.png)
 
